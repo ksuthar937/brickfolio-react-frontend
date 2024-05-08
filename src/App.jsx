@@ -1,5 +1,3 @@
-import "./App.css";
-
 import Filter from "./components/Filter";
 import Navbar from "./components/Navbar";
 import Products from "./components/Products";

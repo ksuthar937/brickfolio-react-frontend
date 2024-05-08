@@ -1,8 +1,16 @@
-# React + Vite
+# Brickfolio Store React App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+App have Navigation bar, Home page
 
-Currently, two official plugins are available:
+##### Use technologies :
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Reactjs, HTML, CSS, Bootstrap/Material UI
+
+##### Implement the following APIs
+
+Base_url = https://dummyjson.com
+
+1. /products
+2. /products/categories
+3. /products/category/{category_name}
+4. /products/{id}

@@ -1,10 +1,10 @@
-import { useEffect } from "react";
 import ProductCard from "./Card";
+
+import { useEffect } from "react";
 import { Box, CircularProgress } from "@mui/material";
+import ErrorIcon from "@mui/icons-material/Error";
 import { fetchProducts } from "../redux/productSlice";
 import { useDispatch, useSelector } from "react-redux";
-
-import ErrorIcon from "@mui/icons-material/Error";
 
 const Products = () => {
   const {

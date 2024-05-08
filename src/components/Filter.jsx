@@ -1,5 +1,4 @@
 import { Box, Chip, Stack, Typography } from "@mui/material";
-
 import { useEffect } from "react";
 import {
   fetchCategories,
