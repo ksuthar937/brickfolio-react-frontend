@@ -4,7 +4,7 @@ App have Navigation bar, Home page
 
 ##### Use technologies :
 
-Reactjs, HTML, CSS, Bootstrap/Material UI
+Reactjs, HTML, CSS, Bootstrap/Material UI , Redux, Redux Toolkit
 
 ##### Implement the following APIs
 
