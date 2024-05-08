@@ -1,0 +1,26 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.search-mobile {
+  display: block !important;
+}
+
+.search-desktop {
+  display: none !important;
+}
+
+@media screen and (min-width: 768px) {
+  .search-mobile {
+    display: none !important;
+  }
+  .search-desktop {
+    display: block !important;
+  }
+}
